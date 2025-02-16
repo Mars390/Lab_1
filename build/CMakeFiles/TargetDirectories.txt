@@ -1,0 +1,3 @@
+/Users/maryryryp/my_project/build/CMakeFiles/MyProject.dir
+/Users/maryryryp/my_project/build/CMakeFiles/edit_cache.dir
+/Users/maryryryp/my_project/build/CMakeFiles/rebuild_cache.dir
